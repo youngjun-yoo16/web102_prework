@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 * ✅ The introduction section explains the background of the company and how many games remain unfunded.
 * ✅ The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * ✅ The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* ✅ The Our Games section has three buttons that allow the user to display only unfunded games, only funded games or all games.
+* ✅ The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 <!--The following **optional** features are implemented:
 
@@ -34,7 +34,7 @@ GIF created with GIPHY Capture.
 
 ## Notes
 
-While building the app, it was slightly challenging yet refreshing to revise JS functions including map, reduce, filter, and find. Also, setting the innerHTML using a template literal and appending it to the appropriate containers were some of the new things I learened while completing this prework. 
+While building the app, it was slightly challenging yet refreshing to revise JS functions including map, reduce, filter, and find. Also, setting the innerHTML using a template literal and appending it to the appropriate containers were some new things I learned while completing this prework. 
 
 ## License
 
