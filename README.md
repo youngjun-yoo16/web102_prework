@@ -34,7 +34,7 @@ GIF created with GIPHY Capture.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building the app, it was slightly challenging yet refreshing to revise JS functions including map, reduce, filter, and find. Also, setting the innerHTML using a template literal and appending it to the appropriate containers were some of the new things I learened while completing this prework. 
 
 ## License
 
